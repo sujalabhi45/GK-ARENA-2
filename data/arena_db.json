@@ -1,0 +1,553 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "username": "admin",
+      "displayName": "Arena Master (Admin)",
+      "email": "admin@gkarena.com",
+      "passwordHash": "$2b$10$6SdKAEl2duXXSEECIf01f.wNjzj.6xk3qpGRgXNFovA0ywAjCX8EW",
+      "role": "admin",
+      "ageGroup": "18+",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "totalPoints": 12500,
+      "coins": 850,
+      "currentStreak": 15,
+      "bestStreak": 21,
+      "totalQuizzes": 82,
+      "accuracyRate": 94.5,
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "categoryMastery": {
+        "great-kings-queens": 98,
+        "history": 95,
+        "ramayan": 96,
+        "mahabharat": 92,
+        "science": 90,
+        "space": 93,
+        "sports": 88,
+        "geography": 91
+      },
+      "badges": [
+        "first-quiz",
+        "quiz-ten",
+        "quiz-fifty",
+        "perfect-score",
+        "kings-queens-expert"
+      ],
+      "stats": {
+        "totalQuizzes": 82,
+        "totalScore": 12500,
+        "bestScore": 100,
+        "averageScore": 92,
+        "totalQuestionsAnswered": 820,
+        "correctAnswersCount": 775,
+        "challengeWins": 14,
+        "challengeLosses": 2,
+        "currentStreak": 15,
+        "bestStreak": 21
+      }
+    },
+    {
+      "id": "usr-demo-aarav",
+      "username": "aarav",
+      "displayName": "Aarav Sharma",
+      "email": "aarav@gkarena.com",
+      "passwordHash": "$2b$10$6SdKAEl2duXXSEECIf01f.GBm0CtOp4zwklDEr3o4sYAL3yJC7Li6",
+      "role": "user",
+      "ageGroup": "6-9",
+      "avatar": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?w=150",
+      "avatarUrl": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?w=150",
+      "totalPoints": 3450,
+      "coins": 240,
+      "currentStreak": 5,
+      "bestStreak": 9,
+      "totalQuizzes": 24,
+      "accuracyRate": 88,
+      "createdAt": "2025-02-10T00:00:00.000Z",
+      "categoryMastery": {
+        "great-kings-queens": 85,
+        "ramayan": 92,
+        "science": 80,
+        "animals-nature": 90
+      },
+      "badges": [
+        "first-quiz",
+        "quiz-ten",
+        "ramayan-scholar"
+      ],
+      "stats": {
+        "totalQuizzes": 24,
+        "totalScore": 3450,
+        "bestScore": 100,
+        "averageScore": 88,
+        "totalQuestionsAnswered": 240,
+        "correctAnswersCount": 211,
+        "challengeWins": 3,
+        "challengeLosses": 1,
+        "currentStreak": 5,
+        "bestStreak": 9
+      }
+    },
+    {
+      "id": "usr-demo-diya",
+      "username": "diya",
+      "displayName": "Diya Patel",
+      "email": "diya@gkarena.com",
+      "passwordHash": "$2b$10$6SdKAEl2duXXSEECIf01f.GBm0CtOp4zwklDEr3o4sYAL3yJC7Li6",
+      "role": "user",
+      "ageGroup": "10-12",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+      "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+      "totalPoints": 7090,
+      "coins": 510,
+      "currentStreak": 1,
+      "bestStreak": 14,
+      "totalQuizzes": 47,
+      "accuracyRate": 90,
+      "createdAt": "2025-01-20T00:00:00.000Z",
+      "categoryMastery": {
+        "history": 90,
+        "space": 94,
+        "great-kings-queens": 92,
+        "mahabharat": 86,
+        "mathematics": 80
+      },
+      "badges": [
+        "first-quiz",
+        "quiz-ten",
+        "space-explorer"
+      ],
+      "stats": {
+        "totalQuizzes": 47,
+        "totalScore": 7090,
+        "bestScore": 100,
+        "averageScore": 90,
+        "totalQuestionsAnswered": 470,
+        "correctAnswersCount": 428,
+        "challengeWins": 7,
+        "challengeLosses": 2,
+        "currentStreak": 1,
+        "bestStreak": 14
+      },
+      "lastActiveDate": "2026-09-18T18:11:47.177Z"
+    },
+    {
+      "id": "usr-demo-arjun",
+      "username": "arjun_v",
+      "displayName": "Arjun Verma",
+      "email": "arjun@gkarena.com",
+      "passwordHash": "$2b$10$6SdKAEl2duXXSEECIf01f.GBm0CtOp4zwklDEr3o4sYAL3yJC7Li6",
+      "role": "user",
+      "ageGroup": "13-17",
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150",
+      "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150",
+      "totalPoints": 9240,
+      "coins": 610,
+      "currentStreak": 12,
+      "bestStreak": 18,
+      "totalQuizzes": 62,
+      "accuracyRate": 93.4,
+      "createdAt": "2025-01-15T00:00:00.000Z",
+      "categoryMastery": {
+        "history": 96,
+        "mahabharat": 94,
+        "great-kings-queens": 95,
+        "science": 91,
+        "sports": 89
+      },
+      "badges": [
+        "first-quiz",
+        "quiz-ten",
+        "quiz-fifty",
+        "mahabharat-scholar"
+      ],
+      "stats": {
+        "totalQuizzes": 62,
+        "totalScore": 9240,
+        "bestScore": 100,
+        "averageScore": 93,
+        "totalQuestionsAnswered": 620,
+        "correctAnswersCount": 579,
+        "challengeWins": 12,
+        "challengeLosses": 4,
+        "currentStreak": 12,
+        "bestStreak": 18
+      }
+    },
+    {
+      "id": "usr-demo-ananya",
+      "username": "ananya_m",
+      "displayName": "Ananya Mukherjee",
+      "email": "ananya@gkarena.com",
+      "passwordHash": "$2b$10$6SdKAEl2duXXSEECIf01f.GBm0CtOp4zwklDEr3o4sYAL3yJC7Li6",
+      "role": "user",
+      "ageGroup": "18+",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+      "totalPoints": 8750,
+      "coins": 530,
+      "currentStreak": 7,
+      "bestStreak": 15,
+      "totalQuizzes": 58,
+      "accuracyRate": 92,
+      "createdAt": "2025-02-01T00:00:00.000Z",
+      "categoryMastery": {
+        "great-kings-queens": 94,
+        "history": 92,
+        "ramayan": 95,
+        "space": 88
+      },
+      "badges": [
+        "first-quiz",
+        "quiz-ten",
+        "india-expert"
+      ],
+      "stats": {
+        "totalQuizzes": 58,
+        "totalScore": 8750,
+        "bestScore": 100,
+        "averageScore": 92,
+        "totalQuestionsAnswered": 580,
+        "correctAnswersCount": 534,
+        "challengeWins": 9,
+        "challengeLosses": 3,
+        "currentStreak": 7,
+        "bestStreak": 15
+      }
+    },
+    {
+      "id": "usr-1789755166423-546",
+      "username": "sujal",
+      "displayName": "Sujal Pathania",
+      "email": "sujalabhi47@gmail.com",
+      "passwordHash": "$2b$10$qPqdFxpqPO7Js5T/0KBcp.3Wbekt62hFAJORwGh4KwulWGyXT1wZW",
+      "role": "user",
+      "ageGroup": "18+",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+      "totalPoints": 100,
+      "coins": 60,
+      "currentStreak": 1,
+      "bestStreak": 1,
+      "totalQuizzes": 1,
+      "accuracyRate": 80,
+      "createdAt": "2026-09-18T18:12:46.423Z",
+      "categoryMastery": {
+        "daily": 80
+      },
+      "badges": [
+        "first-quiz",
+        "speed-master"
+      ],
+      "stats": {
+        "totalQuizzes": 1,
+        "totalScore": 100,
+        "bestScore": 80,
+        "averageScore": 80,
+        "totalQuestionsAnswered": 5,
+        "correctAnswersCount": 4,
+        "challengeWins": 0,
+        "challengeLosses": 0,
+        "currentStreak": 1,
+        "bestStreak": 1
+      },
+      "lastActiveDate": "2026-09-18T18:14:25.917Z"
+    }
+  ],
+  "attempts": [
+    {
+      "userId": "usr-1789755166423-546",
+      "userDisplayName": "Sujal Pathania",
+      "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+      "category": "daily",
+      "ageGroup": "18+",
+      "score": 80,
+      "totalQuestions": 5,
+      "correctCount": 4,
+      "timeTakenSeconds": 42,
+      "pointsEarned": 100,
+      "coinsEarned": 10,
+      "userAnswers": [
+        {
+          "questionId": "k-spc-5",
+          "question": "Which is the largest planet in our Solar System?",
+          "selectedAnswer": "Jupiter",
+          "correctAnswer": "Jupiter",
+          "isCorrect": true,
+          "explanation": "Jupiter is a massive gas giant so huge that over 1,300 Earths could fit inside it."
+        },
+        {
+          "questionId": "j-ext-26",
+          "question": "Which Nishada king and boatman washed Lord Rama’s feet with pure reverence before ferrying him across the Ganga?",
+          "selectedAnswer": "Guha (Nishadraj Guha)",
+          "correctAnswer": "Guha (Nishadraj Guha)",
+          "isCorrect": true,
+          "explanation": "Nishadraj Guha was a dear friend and devotee of Lord Rama who offered him hospitality at Shringaverapura."
+        },
+        {
+          "questionId": "j-extra-auto-4",
+          "question": "Which Mauryan capital was described by Greek ambassador Megasthenes in his book \"Indica\"?",
+          "selectedAnswer": "Pataliputra",
+          "correctAnswer": "Pataliputra",
+          "isCorrect": true,
+          "explanation": "Megasthenes was ambassador from Seleucus I to Chandragupta Maurya’s court."
+        },
+        {
+          "questionId": "j-extra-auto-47",
+          "question": "Which queen of Sivaganga in Tamil Nadu was the first Indian queen to wage war against the East India Company in 1780?",
+          "selectedAnswer": "Rani Mangammal",
+          "correctAnswer": "Rani Velu Nachiyar",
+          "isCorrect": false,
+          "explanation": "Rani Velu Nachiyar, known as Veeramangai, trained female warriors (Udaiyal unit) and liberated her kingdom."
+        },
+        {
+          "questionId": "j-extra-auto-89",
+          "question": "Which blood vessels carry deoxygenated blood back toward the heart?",
+          "selectedAnswer": "Veins",
+          "correctAnswer": "Veins",
+          "isCorrect": true,
+          "explanation": "Veins contain one-way valves that prevent blood from flowing backwards."
+        }
+      ],
+      "id": "att-1789755265917-765",
+      "completedAt": "2026-09-18T18:14:25.917Z"
+    },
+    {
+      "userId": "usr-demo-diya",
+      "userDisplayName": "Diya Patel",
+      "userAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+      "category": "mathematics",
+      "ageGroup": "10-12",
+      "score": 80,
+      "totalQuestions": 10,
+      "correctCount": 8,
+      "timeTakenSeconds": 95,
+      "pointsEarned": 200,
+      "coinsEarned": 20,
+      "userAnswers": [
+        {
+          "questionId": "j-mat-3",
+          "question": "What is 15% of 200?",
+          "selectedAnswer": "30",
+          "correctAnswer": "30",
+          "isCorrect": true,
+          "explanation": "15/100 × 200 = 15 × 2 = 30."
+        },
+        {
+          "questionId": "j-extra-auto-24",
+          "question": "How many degrees do the angles in a quadrilateral add up to?",
+          "selectedAnswer": "360°",
+          "correctAnswer": "360°",
+          "isCorrect": true,
+          "explanation": "Any four-sided polygon has interior angles that sum to 360 degrees."
+        },
+        {
+          "questionId": "j-ext-12",
+          "question": "Which ancient Indian astronomer calculated the value of Pi to four decimal places (3.1416) and stated that Earth rotates on its axis?",
+          "selectedAnswer": "Aryabhata",
+          "correctAnswer": "Aryabhata",
+          "isCorrect": true,
+          "explanation": "Aryabhata composed the Aryabhatiya in 499 CE at Kusumapura (Pataliputra)."
+        },
+        {
+          "questionId": "j-ext-11",
+          "question": "Who was the ancient Indian mathematician who introduced zero as a number with computational rules in his Brahmasphutasiddhanta?",
+          "selectedAnswer": "Aryabhata",
+          "correctAnswer": "Brahmagupta",
+          "isCorrect": false,
+          "explanation": "Brahmagupta (7th century CE) defined zero, negative numbers, and basic algebraic principles in Ujjain."
+        },
+        {
+          "questionId": "j-ext-51",
+          "question": "What is the value of 2 to the power of 5 (2⁵)?",
+          "selectedAnswer": "32",
+          "correctAnswer": "32",
+          "isCorrect": true,
+          "explanation": "2 × 2 × 2 × 2 × 2 = 32."
+        },
+        {
+          "questionId": "j-mat-1",
+          "question": "What is the smallest prime number?",
+          "selectedAnswer": "2",
+          "correctAnswer": "2",
+          "isCorrect": true,
+          "explanation": "2 is the only even prime number and the smallest prime number (1 is neither prime nor composite)."
+        },
+        {
+          "questionId": "j-ext-50",
+          "question": "What is the square root of 144?",
+          "selectedAnswer": "12",
+          "correctAnswer": "12",
+          "isCorrect": true,
+          "explanation": "12 × 12 = 144."
+        },
+        {
+          "questionId": "j-extra-auto-23",
+          "question": "What is the value of Pi rounded to two decimal places?",
+          "selectedAnswer": "3.14",
+          "correctAnswer": "3.14",
+          "isCorrect": true,
+          "explanation": "Pi is the ratio of circle circumference to diameter (approx. 22/7 or 3.14)."
+        },
+        {
+          "questionId": "j-mat-2",
+          "question": "What is the sum of the interior angles of any triangle?",
+          "selectedAnswer": "90°",
+          "correctAnswer": "180°",
+          "isCorrect": false,
+          "explanation": "The three interior angles in any Euclidean planar triangle always sum to 180 degrees."
+        },
+        {
+          "questionId": "j-ext-52",
+          "question": "If a rectangle has length 8 cm and width 5 cm, what is its area?",
+          "selectedAnswer": "40 cm²",
+          "correctAnswer": "40 cm²",
+          "isCorrect": true,
+          "explanation": "Area = length × width = 8 cm × 5 cm = 40 cm²."
+        }
+      ],
+      "id": "att-1789755107176-14",
+      "completedAt": "2026-09-18T18:11:47.176Z"
+    },
+    {
+      "id": "att-1",
+      "userId": "usr-admin-1",
+      "userDisplayName": "Arena Master (Admin)",
+      "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "category": "great-kings-queens",
+      "ageGroup": "18+",
+      "score": 100,
+      "totalQuestions": 10,
+      "correctCount": 10,
+      "timeTakenSeconds": 42,
+      "pointsEarned": 250,
+      "coinsEarned": 25,
+      "completedAt": "2026-09-18T16:23:00.716Z",
+      "userAnswers": []
+    },
+    {
+      "id": "att-2",
+      "userId": "usr-demo-arjun",
+      "userDisplayName": "Arjun Verma",
+      "userAvatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150",
+      "category": "history",
+      "ageGroup": "13-17",
+      "score": 90,
+      "totalQuestions": 10,
+      "correctCount": 9,
+      "timeTakenSeconds": 51,
+      "pointsEarned": 220,
+      "coinsEarned": 20,
+      "completedAt": "2026-09-18T15:23:00.716Z",
+      "userAnswers": []
+    },
+    {
+      "id": "att-3",
+      "userId": "usr-demo-diya",
+      "userDisplayName": "Diya Patel",
+      "userAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+      "category": "space",
+      "ageGroup": "10-12",
+      "score": 100,
+      "totalQuestions": 10,
+      "correctCount": 10,
+      "timeTakenSeconds": 48,
+      "pointsEarned": 250,
+      "coinsEarned": 25,
+      "completedAt": "2026-09-18T13:23:00.716Z",
+      "userAnswers": []
+    },
+    {
+      "id": "att-4",
+      "userId": "usr-demo-aarav",
+      "userDisplayName": "Aarav Sharma",
+      "userAvatar": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?w=150",
+      "category": "ramayan",
+      "ageGroup": "6-9",
+      "score": 90,
+      "totalQuestions": 10,
+      "correctCount": 9,
+      "timeTakenSeconds": 58,
+      "pointsEarned": 210,
+      "coinsEarned": 20,
+      "completedAt": "2026-09-18T09:23:00.716Z",
+      "userAnswers": []
+    }
+  ],
+  "customQuizzes": [
+    {
+      "id": "quiz-chhatrapati",
+      "title": "The Great Chhatrapati Shivaji Maharaj Challenge",
+      "description": "Test your knowledge on Swarajya, Maratha hill forts, and naval battles!",
+      "createdById": "usr-admin-1",
+      "createdByDisplayName": "Arena Master",
+      "category": "great-kings-queens",
+      "ageGroup": "all",
+      "timeLimitMinutes": 10,
+      "pinCode": "7412",
+      "questionIds": [
+        "kq-1",
+        "kq-2",
+        "j-kq-1",
+        "j-kq-2",
+        "ta-kq-5"
+      ],
+      "createdAt": "2026-09-18T17:23:00.716Z"
+    }
+  ],
+  "customQuestions": [],
+  "dailyChallengeDates": {
+    "2026-09-18": [
+      "j-extra-auto-47",
+      "ta-kq-2",
+      "k-kq-1",
+      "k-kq-8",
+      "k-kq-15",
+      "k-ram-8",
+      "k-extra-plus-22",
+      "j-ram-4",
+      "j-ext-24",
+      "j-extra-auto-56",
+      "ta-ext-25",
+      "k-mah-5",
+      "k-extra-34",
+      "j-mah-4",
+      "j-ext-29",
+      "k-extra-40",
+      "k-extra-47",
+      "k-extra-plus-10",
+      "k-extra-plus-30",
+      "j-ext-14",
+      "j-extra-auto-82",
+      "j-extra-auto-89",
+      "ta-ext-14",
+      "k-sci-2",
+      "k-sci-9",
+      "j-extra-auto-35",
+      "ta-ext-3",
+      "ta-ext-36",
+      "j-ext-8",
+      "j-extra-auto-32",
+      "ta-geo-2",
+      "k-geo-2",
+      "k-extra-plus-19",
+      "j-ext-46",
+      "j-extra-auto-94",
+      "j-spc-1",
+      "j-ext-43",
+      "ta-spc-3",
+      "k-spc-3",
+      "k-extra-17",
+      "k-extra-65",
+      "j-mat-2",
+      "j-extra-auto-23",
+      "k-extra-22",
+      "k-extra-plus-16",
+      "k-spt-4",
+      "j-ext-53",
+      "k-spt-2",
+      "j-spt-1",
+      "ta-spt-1"
+    ]
+  }
+}

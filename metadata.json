@@ -1,0 +1,6 @@
+{
+  "name": "GK Arena",
+  "description": "Premier GK and Trivia Quiz platform for all age groups with Indian History, Great Indian Kings & Queens, Ramayan, Mahabharat, Science, Space, Sports, and Global Challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
